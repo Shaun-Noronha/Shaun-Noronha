@@ -1,27 +1,87 @@
-# Hi there! 👋
+# SHAUN FRANCIS NORONHA
 
-I'm Shaun Francis Noronha, a graduate student pursuing a Master of Science in Computer Science at Worcester Polytechnic Institute. 🎓
+Worcester, MA | +1 (508) 723-6970 | [sfnoronha@wpi.edu](mailto:sfnoronha@wpi.edu) | [LinkedIn](https://www.linkedin.com/in/shaunnoronha7)
 
-## About Me
 
-With a strong passion for software development, data science, and web development, I'm actively seeking Summer 2024 internship opportunities to apply my diverse skill set and tackle real-world challenges. 💻 
+👋 Hey there! I'm Shaun Francis Noronha, a graduate student pursuing a Master of Science in Computer Science at Worcester Polytechnic Institute. My passion lies in software development, data science, and web development. Currently seeking Summer 2024 internship opportunities, I bring a diverse skill set and a drive to leverage technology for solving real-world challenges.
 
-## Experience
+🎓 With a solid foundation in computer engineering from Xavier Institute of Engineering, Mumbai, I've honed my skills in Python, Java, C++, HTML5, CSS3, and JavaScript. My coursework and professional experiences have equipped me to tackle complex problems and deliver innovative solutions.
 
-- **Software Development Intern** at CMP Infotech, Mumbai, where I streamlined Pathology Lab operations and designed a WhatsApp chatbot for patient communication.
-- **Web Developer Intern** at Brainovision Pvt. Ltd, where I led web development projects and implemented automation tools for workflow optimization.
+💼 As a Software Development Intern at CMP Infotech, I streamlined Pathology Lab operations with Python automation and developed a WhatsApp chatbot for patient communication. At Brainovision Pvt. Ltd, I led the development of an e-commerce website and implemented workflow automation tools.
 
-## Projects
+🚀 In my projects, I've led the development of a Cross-Lingual Information Retrieval tool and explored audio adversarial attacks on deep learning models, showcasing my creativity and problem-solving skills.
 
-- **Cross-Lingual Information Retrieval:** Led the development of a tool to boost leads by 52% and conducted data science projects for cross-lingual retrieval.
-- **Audio Adversarial Attack and Defense:** Explored audio adversarial attacks on deep learning models, achieving targeted transcriptions while minimizing loss.
-- **OCR for Regional Languages:** Designed an OCR Web Application to extract and translate text from images in regional languages, enhancing accessibility.
+🌟 Outside of academics and work, I've held leadership roles as the Marketing Head for the University Cultural Fest and as the Organization Head for IEEE Organization XIE, enhancing my communication, teamwork, and project management skills.
 
-## Leadership and Involvement
+📫 Interested in discussing potential opportunities? Let's connect on [LinkedIn](https://www.linkedin.com/in/shaunnoronha7) or shoot me an email at sfnoronha@wpi.edu. Looking forward to chatting!
 
-- **Marketing Head** for University Cultural Fest, where I implemented innovative strategies resulting in a 40% increase in sponsorship.
-- **Organization Head** for IEEE Organization XIE, delivering engaging presentations at conferences with audiences exceeding 5000 attendees.
 
-## Let's Connect!
+---
 
-I'm enthusiastic about leveraging my technical skills and experiences to make a positive impact in the tech industry. If you're looking for a dedicated and motivated individual to join your team, feel free to reach out via [LinkedIn](linkedin.com/in/shaunnoronha7) or email at sfnoronha@wpi.edu. 🚀 Let's make an impact together!
+## EDUCATION
+
+**Worcester Polytechnic Institute**, Worcester, MA, USA  
+*Master of Science in Computer Science*  
+August 2023 - May 2025
+
+- Relevant coursework: Algorithms Design & Analysis, Machine Learning, Big Data Analytics, Information Retrieval, Artificial Intelligence, Natural Language Processing (NLP), Statistical Analysis, Introduction to Data Science
+
+**Xavier Institute of Engineering**, Mumbai, India  
+*Bachelor of Engineering in Computer Engineering*  
+July 2019 - May 2023
+
+- Relevant coursework: Data Structures, Operating Systems, OOPM, Software Engineering, Machine Learning
+
+---
+
+## TECHNICAL SKILLS
+
+- **Programming Languages:** Python, C++, C, Java, HTML5, CSS3, JavaScript, PHP, R, TypeScript, Node.js, React.js, Angular, MongoDB, MySQL, Apache Spark, Google Firestore, .NET
+- **Python Programming:** NLTK, Matplotlib, NumPy, Pandas, Seaborn, Scikit-learn, Tesseract OCR, Tkinter, Tensorflow
+- **Tools:** Azure, Linux, Git, Tableau, Power BI, Latex, Ubuntu, Jira, VS Code, IntelliJ, Jupyter, Orange, Hadoop, Unix, Linux, Docker
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Software Development Intern**  
+*CMPInfotech, Mumbai, India*  
+December 2021 - March 2022
+
+- Streamlined Pathology Lab operations with a Python-based automated system; utilized Tesseract OCR to extract data from lab reports, stored in Google Firestore
+- Designed WhatsApp chatbot via Twilio to deliver report details to patients and simplify medical jargon; exceeded 500+ user goal within the first month
+- Created Tkinter desktop app for lab staff with authentication, invoice generation, and scheduling. Integrated Firestore for seamless CRUD operations on customer data and medical records
+
+**Web Developer Intern**  
+*Brainovision Pvt. Ltd, Mumbai*  
+August 2021 - September 2021
+
+- Led the design and development of an e-commerce website for a boutique cake shop using WordPress (including extensions and plugins), HTML, CSS, and other web technologies
+- Implemented innovative automation tools to evaluate and streamline workflow processes, resulting in a 30% increase in productivity and saving team over 20 hours per week
+- Boosted total leads generated by 52% through analysis of product performance using key performance indicators (KPIs) and usage data, guiding development processes, prioritizing features, and conducting user research on personas
+
+---
+
+## PERSONAL PROJECT EXPERIENCE
+
+**Cross-Lingual Information Retrieval** ([Link](#))  
+- Led cross-lingual information retrieval tool development, boosting leads by 52%. Collaborated with software teams, conducted user research for 5000+ users
+- Drove data science project for cross-lingual retrieval, yielding a 52% lead increase. Conducted analysis, drew insights for model robustness
+
+**Audio Adversarial Attack and Defense** ([Link](#))  
+- Developed a system to explore audio adversarial attacks on deep learning models in Automated Speech Recognition (ASR), achieving targeted transcriptions through iterative noise addition while minimizing Connectionist Temporal Classification (CTC) loss
+- Implemented defense mechanisms using AMR encoding and MP3 compression to safeguard against audio adversarial attacks, enhancing robustness in ASR systems
+
+**OCR for Regional Languages** ([Link](#))  
+- Designed an OCR Web Application leveraging Easyocr and Google Trans to extract and translate text from images in regional languages, enhancing accessibility and usability for diverse users
+
+---
+
+## LEADERSHIP AND INVOLVEMENT
+
+**University Cultural Fest XIE | Marketing Head**  
+- Led a cross-functional team for undergraduate festival, implementing innovative strategies that resulted in a 40% increase in sponsorship through pitches and negotiations. Orchestrated meetings, managed budgets, and supervised collateral
+- Collaborated with marketing team to craft distinctive event props, leading to a 35% surge in attendance and engagement
+
+**IEEE Organization XIE | Organization Head**  
+- Delivered well-structured and engaging presentations at IEEE conferences, addressing audiences exceeding 5000 attendees, to showcase research endeavors
