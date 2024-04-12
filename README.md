@@ -74,14 +74,3 @@ August 2021 - September 2021
 
 **OCR for Regional Languages** ([Link](#))  
 - Designed an OCR Web Application leveraging Easyocr and Google Trans to extract and translate text from images in regional languages, enhancing accessibility and usability for diverse users
-
----
-
-## LEADERSHIP AND INVOLVEMENT
-
-**University Cultural Fest XIE | Marketing Head**  
-- Led a cross-functional team for undergraduate festival, implementing innovative strategies that resulted in a 40% increase in sponsorship through pitches and negotiations. Orchestrated meetings, managed budgets, and supervised collateral
-- Collaborated with marketing team to craft distinctive event props, leading to a 35% surge in attendance and engagement
-
-**IEEE Organization XIE | Organization Head**  
-- Delivered well-structured and engaging presentations at IEEE conferences, addressing audiences exceeding 5000 attendees, to showcase research endeavors
