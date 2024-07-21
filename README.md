@@ -17,16 +17,3 @@ Worcester, MA | +1 (508) 723-6970 | [sfnoronha@wpi.edu](mailto:sfnoronha@wpi.edu
 
 
 ---
-
-## PERSONAL PROJECT EXPERIENCE
-
-**Cross-Lingual Information Retrieval** ([Link](#))  
-- Led cross-lingual information retrieval tool development, boosting leads by 52%. Collaborated with software teams, conducted user research for 5000+ users
-- Drove data science project for cross-lingual retrieval, yielding a 52% lead increase. Conducted analysis, drew insights for model robustness
-
-**Audio Adversarial Attack and Defense** ([Link](#))  
-- Developed a system to explore audio adversarial attacks on deep learning models in Automated Speech Recognition (ASR), achieving targeted transcriptions through iterative noise addition while minimizing Connectionist Temporal Classification (CTC) loss
-- Implemented defense mechanisms using AMR encoding and MP3 compression to safeguard against audio adversarial attacks, enhancing robustness in ASR systems
-
-**OCR for Regional Languages** ([Link](#))  
-- Designed an OCR Web Application leveraging Easyocr and Google Trans to extract and translate text from images in regional languages, enhancing accessibility and usability for diverse users
