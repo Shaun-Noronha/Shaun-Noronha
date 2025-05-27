@@ -1,9 +1,9 @@
 # SHAUN FRANCIS NORONHA
 
-Worcester, MA | +1 (508) 723-6970 | [sfnoronha@wpi.edu](mailto:sfnoronha@wpi.edu) | [LinkedIn](https://www.linkedin.com/in/shaunnoronha7)
+Boston, MA | +1 (508) 723-6970 | [sfnoronha@wpi.edu](mailto:sfnoronha@wpi.edu) | [LinkedIn](https://www.linkedin.com/in/shaun-noronha)
 
 
-👋 Hey there! I'm Shaun Francis Noronha, a graduate student pursuing a Master of Science in Computer Science at Worcester Polytechnic Institute. My passion lies in software development, data science, and web development. Currently seeking Summer 2024 internship opportunities, I bring a diverse skill set and a drive to leverage technology for solving real-world challenges.
+👋 Hey there! I'm Shaun Francis Noronha, a graduate student pursuing a Master of Science in Computer Science at Worcester Polytechnic Institute. My passion lies in software development, data science, and web development. Currently seeking full-time and internship opportunities, I bring a diverse skill set and a drive to leverage technology to solve real-world challenges.
 
 🎓 With a solid foundation in computer engineering from Xavier Institute of Engineering, Mumbai, I've honed my skills in Python, Java, C++, HTML5, CSS3, and JavaScript. My coursework and professional experiences have equipped me to tackle complex problems and deliver innovative solutions.
 
@@ -13,7 +13,7 @@ Worcester, MA | +1 (508) 723-6970 | [sfnoronha@wpi.edu](mailto:sfnoronha@wpi.edu
 
 🌟 Outside of academics and work, I've held leadership roles as the Marketing Head for the University Cultural Fest and as the Organization Head for IEEE Organization XIE, enhancing my communication, teamwork, and project management skills.
 
-📫 Interested in discussing potential opportunities? Let's connect on [LinkedIn](https://www.linkedin.com/in/shaunnoronha7) or shoot me an email at sfnoronha@wpi.edu. Looking forward to chatting!
+📫 Interested in discussing potential opportunities? Let's connect on [LinkedIn](https://www.linkedin.com/in/shaun-noronha) or shoot me an email at sfnoronha@wpi.edu. Looking forward to chatting!
 
 
 ---
