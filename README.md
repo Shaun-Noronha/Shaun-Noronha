@@ -27,17 +27,42 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Tools  
+### Frameworks & Backend  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+
+### Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge)
 
 ### Data & BI  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+
+### Data Engineering & Tools  
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+
+### AI / ML  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+
+### Automation & Workflow  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge)
+
+### Cloud & Deployment  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 ---
 
@@ -62,15 +87,6 @@
 - Built caption generator using **BLIP + LLaMA models**  
 - Deployed with **Streamlit + FastAPI**  
 - Improved caption quality using prompt engineering  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaun-Noronha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Noronha&layout=compact&theme=radical" />
-</p>
 
 ---
 
